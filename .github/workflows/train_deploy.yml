@@ -1,7 +1,7 @@
 # Actions train a model on Azure Machine Learning
 name: aml-train-deploy-workflow 
 on:
-  push:
+  push :
     branches:
       - master
     # paths:
